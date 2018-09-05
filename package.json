@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/cylhah/trailer#readme",
   "dependencies": {
-    "koa": "^2.5.2"
+    "ejs": "^2.6.1",
+    "koa": "^2.5.2",
+    "pug": "^2.0.3"
   }
 }
