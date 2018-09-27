@@ -23,8 +23,12 @@
   "homepage": "https://github.com/cylhah/trailer#readme",
   "dependencies": {
     "ejs": "^2.6.1",
+    "glob": "^7.1.3",
     "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
     "koa-views": "^6.1.4",
+    "mongoose": "^5.2.13",
+    "mysql-pro": "^1.0.1",
     "pug": "^2.0.3",
     "puppeteer": "^1.7.0",
     "request": "^2.88.0",
